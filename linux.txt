@@ -1,1 +1,2 @@
 cat command opens files
+>> symbol appends to file
